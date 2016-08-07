@@ -1,1 +1,1 @@
-# Web-cucumber-demo
+# Web-CucumberRuby-demo
